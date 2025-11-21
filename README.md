@@ -88,4 +88,5 @@ Author
 Deepika
 Aspiring Data Analyst
 Tools: Python • SQL • Power BI • Excel
-GitHub: https://github.com/deepikabt2024-cloud
+GitHub: https://github.com/deepikabt2024-cloud/hr-attrition-analysis-python
+
